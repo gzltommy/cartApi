@@ -4,4 +4,3 @@
 # 否定忽略的文件
 !.dockerignore
 !Dockerfile
-!cartApi
